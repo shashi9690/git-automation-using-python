@@ -9,12 +9,11 @@
 
 Now open obsidian [obsidian](https://obsidian.md/)
 
-at the bottom left corner, click on open another vault ![getting_started 1.png](_Attachments/getting_started 1.png)
+at the bottom left corner, click on open another vault 
 
- then select folder as Vault option  ![getting_started 2.png](_Attachments/getting_started 2.png)
-
-Navigate to cloned Github repo folder and select it  ![getting_started 3.png](_Attachments/getting_started 3.png)
-
+ then select folder as Vault option 
+ 
+Navigate to cloned Github repo folder and select it 
 # git-automation-using-python
 Using python subprocess module to automate git commits and utilising text extraction to fetch headings and use them as commit messages
 Tasks:
