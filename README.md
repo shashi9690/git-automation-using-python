@@ -7,7 +7,7 @@
  git clone https://github.com/shashi9690/git-automation-using-python
  ~~~
 
-Now open obsidian ![obsidian](https://obsidian.md/)
+Now open obsidian [obsidian](https://obsidian.md/)
 
 at the bottom left corner, click on open another vault ![getting_started 1.png](_Attachments/getting_started 1.png)
 
