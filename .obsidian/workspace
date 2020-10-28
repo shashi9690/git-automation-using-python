@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitledsdsds.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitledsdsds.md"
+              }
             }
           }
         ]
@@ -71,8 +76,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitledsdsds.md",
+    "somethin 1.md",
     "README.md",
     "Inner peace.md",
+    "ss/dsdsd.md",
     "Untitled.md"
   ]
 }
