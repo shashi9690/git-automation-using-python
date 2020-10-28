@@ -1,5 +1,5 @@
 <h1 style="text-align: center; ">
-Inner peace
+Inner peace 
 </h1>
 
 > Note Spawned on  Oct 27,  Tuesday at 7:09 pm

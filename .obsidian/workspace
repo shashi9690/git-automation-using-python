@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           }
@@ -76,11 +76,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitledsdsds.md",
-    "somethin 1.md",
     "README.md",
+    "somethin 1.md",
+    "myfile.md",
+    "Untitledsdsds.md",
     "Inner peace.md",
+    "Untitled.md",
     "ss/dsdsd.md"
   ]
 }
