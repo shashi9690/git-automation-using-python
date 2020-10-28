@@ -5,6 +5,7 @@ import re
 if __name__=="__main__":
     status_result = subprocess.check_output(["git","status"]).decode()
     print(status_result)
+<<<<<<< HEAD
     modified_pattern = r"modified:\s+(.*)"
     print(re.findall(modified_pattern,status_result))
     all_files = r".*[a-z0-9]+\.\S+"
@@ -16,3 +17,5 @@ if __name__=="__main__":
         print(file.strip())
     for folder in found_folders:
         print(folder.strip())
+=======
+>>>>>>> parent of 12664b9... on progress
