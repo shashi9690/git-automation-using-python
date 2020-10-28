@@ -17,7 +17,7 @@ Navigate to cloned Github repo folder and select it
 # git-automation-using-python
 Using python subprocess module to automate git commits and utilising text extraction to fetch headings and use them as commit messages
 Tasks:
-1)Fetching the names of modified files from git add . command
+1)Fetching the names of modified files from git status . command
 
 2)navigating to those files and perform text extraction 
 

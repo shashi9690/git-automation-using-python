@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a263e5d2ffebc27",
+        "id": "931a30e66aa4d345",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
