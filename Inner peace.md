@@ -19,3 +19,6 @@ you dont achieve inner peace when theres nothing going on in ur mind , it is whe
 #### how and why did you stumble across this?:
 >collective messed up thinkings
 ***
+#### comments
+>added a comment to fetch using python
+*** 
