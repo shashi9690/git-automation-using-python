@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Inner peace.md",
-            "mode": "preview"
+            "file": "Pasted image 20210110070308.png"
           }
         }
       }
@@ -40,7 +39,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -48,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "34e144b2b70cf523",
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner peace.md"
+                "file": "Pasted image 20210110070308.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,12 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Pasted image 20210110070308.png",
+    "Untitled.md",
+    "gggggggggg/fsfdsfs.md",
     "Inner peace.md",
+    "gggggggggg/Untitled.md",
     "myfile.md",
     "somethin 1.md",
     "README.md",
     "Untitledsdsds.md",
-    "Untitled.md",
     "ss/dsdsd.md"
   ]
 }
